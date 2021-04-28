@@ -24,6 +24,10 @@ A repository for listing all useful resources on different kinds of Computer Ver
 ## Datasets
 1. [BU-action Datasets](https://cs-people.bu.edu/sbargal/BU-action/)
 
+2. [MM-Fit Dataset](https://mmfit.github.io/)
+
+3. [HMDB: a large human motion database](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/)
+
 ## Similar open source projects (GitHub links)
 1. [NetoPedro/Deep-Learning-Push-Up-Counter](https://github.com/NetoPedro/Deep-Learning-Push-Up-Counter)
 Deep Learning approach to count the number of repetitions in a video of push ups or pull ups.
